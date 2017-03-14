@@ -1,3 +1,8 @@
+/*
+	Author: Pranav Pareek
+	Email: me@pranavpareek.com
+*/
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <sys/types.h> 
